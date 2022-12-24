@@ -3,7 +3,7 @@ type: plugin
 name: ChatFilter
 authors:
   - PhilCode
-supportedGameVersions*: ^1.16
+supportedGameVersions: ^1.16
 category: chat
 introduction: Ein Simpler ChatFilter
 description: |
