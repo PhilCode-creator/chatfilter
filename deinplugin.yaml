@@ -1,0 +1,16 @@
+specVersion: 1
+type: plugin
+name: ChatFilter
+authors:
+  - PhilCode
+supportedGameVersions*: ^1.16
+category: chat
+introduction: Ein Simpler ChatFilter
+description: |
+  # Überblick
+  Dies ist ein einfaches ChatFilter-Plugin
+  # Befehle:
+  - /ChatFilter
+  - /Blacklist
+
+icon: https://cdn-icons-png.flaticon.com/512/3126/3126675.png

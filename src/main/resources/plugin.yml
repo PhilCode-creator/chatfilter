@@ -1,0 +1,9 @@
+name: ChatFilter
+version: 1.0
+author: PhilCode
+main: de.philipp.chatfilter.ChatFilter
+
+commands:
+  ChatFilter:
+    aliases:
+      - blacklist
